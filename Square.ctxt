@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Square(int,\ int)
+comment0.text=\n\ make\ a\ basic\ shape\ \n
+comment1.params=x\ y\ sl
+comment1.target=Square(int,\ int,\ int)
+comment1.text=\n\ take\ a\ side\ length\ to\ calculate\ area\n\ and\ to\ use\ in\ the\ draw\ method\n
+comment2.params=
+comment2.target=int\ getSideLength()
+comment2.text=\n\ get\ the\ sideLength\n
+comment3.params=sl
+comment3.target=void\ setSideLength(int)
+comment3.text=\n\ set\ the\ sideLength\n
+comment4.params=
+comment4.target=double\ getArea()
+comment4.text=\n\ multiply\ the\ side\ length\ by\ itself\n
+comment5.params=g
+comment5.target=void\ draw(java.awt.Graphics)
+comment5.text=\n\ make\ a\ square\ by\ drawing\ a\ rectangle,\ but\ set\ both\ the\ length\ and\ the\ width\ \n\ equal\ by\ using\ the\ side\ length\n
+numComments=6

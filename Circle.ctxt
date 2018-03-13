@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Circle(int,\ int)
+comment0.text=\n\ base\ constructor\ using\ super\n
+comment1.params=x\ y\ rad
+comment1.target=Circle(int,\ int,\ double)
+comment1.text=\n\ take\ in\ a\ radius\n
+comment2.params=x\ y\ rad\ wal
+comment2.target=Circle(int,\ int,\ double,\ int)
+comment2.text=\n\ take\ in\ all\n
+comment3.params=
+comment3.target=double\ getRadius()
+comment3.text=\n\ return\ radius\n
+comment4.params=r
+comment4.target=void\ setRadius(double)
+comment4.text=\n\ return\ radius\n
+comment5.params=
+comment5.target=double\ getArea()
+comment5.text=\n\ override\ getArea\n
+comment6.params=g
+comment6.target=void\ draw(java.awt.Graphics)
+comment6.text=\n\ override\ draw\n
+numComments=7

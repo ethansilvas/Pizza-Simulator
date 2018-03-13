@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=Shape(int,\ int)
+comment0.text=\n\ defines\ an\ x\ and\ y\ of\ a\ shape\n
+comment1.params=
+comment1.target=double\ getArea()
+comment1.text=\n\ used\ to\ be\ overriden\ and\ find\ the\ area\ of\ a\ certain\ shape\n
+comment2.params=g
+comment2.target=void\ draw(java.awt.Graphics)
+comment2.text=\n\ another\ overrideable\ method\ for\ actually\ drawing\ the\ shape\ using\ Graphics\ class\n
+comment3.params=
+comment3.target=int\ getX()
+comment3.text=\n\ return\ the\ x\ value\ of\ the\ shape\n
+comment4.params=
+comment4.target=int\ getY()
+comment4.text=\n\ return\ the\ y\ value\ of\ the\ shape\n
+comment5.params=
+comment5.target=Shape\ clone()
+comment5.text=\n\ override\ clone\ to\ make\ a\ new\ shape\n
+numComments=6

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getDescription()
+comment0.text=\n\ return\ the\ description\ \n
+comment1.params=
+comment1.target=int\ getCalories()
+comment1.text=\n\ return\ the\ calories\n
+comment2.params=d
+comment2.target=void\ setDescription(java.lang.String)
+comment2.text=\n\ set\ the\ description\ \n
+comment3.params=cal
+comment3.target=void\ setCalories(int)
+comment3.text=\n\ set\ the\ calories\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ returns\ the\ ingredient\ into\ a\ string\n
+comment5.params=that
+comment5.target=boolean\ equals(Ingredient)
+comment5.text=\n\ checks\ if\ two\ ingredients\ are\ equal\n
+comment6.params=other
+comment6.target=int\ compareTo(java.lang.Object)
+comment6.text=\n\ compare\ two\ ingredients\ by\ price\n
+numComments=7

@@ -1,0 +1,41 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Fraction()
+comment0.text=\n\ no\ arg\ constructor\n
+comment1.params=nx\ nd
+comment1.target=Fraction(int,\ int)
+comment1.text=\n\ creates\ a\ fraction\ by\ taking\ in\ a\ numerator\ and\ denominator\n
+comment10.params=
+comment10.target=int\ getDenominator()
+comment10.text=\n\ return\ the\ denominator\n
+comment11.params=num
+comment11.target=void\ setNumerator(int)
+comment11.text=\n\ set\ the\ numerator\n
+comment12.params=denom
+comment12.target=void\ setDenominator(int)
+comment12.text=\n\ set\ the\ denominator\n
+comment2.params=n1\ n2
+comment2.target=int\ euclid(int,\ int)
+comment2.text=\n\ reused\ gcd\ method\ to\ use\n
+comment3.params=
+comment3.target=Fraction\ simplify()
+comment3.text=\n\ simplify\ a\ fraction\n
+comment4.params=f
+comment4.target=Fraction\ subtract(Fraction)
+comment4.text=\n\ subtract\ two\ fractions\n\ a/b\ -\ c/d\ \=\ (ad\ -\ cb)/bd\n
+comment5.params=other
+comment5.target=int\ compareTo(java.lang.Object)
+comment5.text=\n\ compares\ fractions\ \n\ negative\ -\ this\ <\ other\n\ zero\ -\ this\ \=\ other\n\ positive\ -\ this\ >\ other\n
+comment6.params=other
+comment6.target=boolean\ equals(Fraction)
+comment6.text=\n\ uses\ gcd\ to\ check\ if\ two\ fractions\ are\ equal\n
+comment7.params=
+comment7.target=Fraction\ clone()
+comment7.text=\n\ clone\ a\ fraction\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\n\ toString\ method\ that\ saves\ the\ fraction\ as\ a\ string\n\ also\ functions\ as\ the\ fraction\ simplifier\ \n
+comment9.params=
+comment9.target=int\ getNumerator()
+comment9.text=\n\ return\ the\ numerator\n
+numComments=13

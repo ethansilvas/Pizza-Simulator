@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PizzaException()
+comment0.text=\n\ no-arg\ constructor\ with\ premade\ message\n
+comment1.params=message
+comment1.target=PizzaException(java.lang.String)
+comment1.text=\n\ constructor\ that\ takes\ string\ as\ argument\n
+numComments=2

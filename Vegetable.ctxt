@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=d\ co\ cal
+comment0.target=Vegetable(java.lang.String,\ Money,\ int)
+comment0.text=\n\ sets\ up\ a\ default\ vegetable\ \n
+comment1.params=d\ co\ cal\ col
+comment1.target=Vegetable(java.lang.String,\ Money,\ int,\ java.awt.Color)
+comment1.text=\n\ sets\ up\ a\ vegetable\ with\ a\ color\ \n
+comment2.params=
+comment2.target=java.awt.Color\ getColor()
+comment2.text=\n\ return\ the\ color\ \n
+comment3.params=col
+comment3.target=void\ setColor(java.awt.Color)
+comment3.text=\n\ set\ the\ color\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ returns\ the\ string\ of\ the\ vegetable\ \n\ color\ will\ be\ added\ in\ the\ subclasses\ \n
+comment5.params=that
+comment5.target=boolean\ equals(Vegetable)
+comment5.text=\n\ compares\ vegetables\ by\ using\ super\ and\ comparing\ color\n\ does\ not\ need\ to\ override\ because\ it\ takes\ in\ a\ vegetable\ not\ ingredient\ \n
+numComments=6
